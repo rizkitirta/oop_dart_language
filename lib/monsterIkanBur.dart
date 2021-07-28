@@ -1,3 +1,4 @@
+import 'package:dart_application_1/drinkAbilityMixin.dart';
 import 'package:dart_application_1/flyingMonster.dart';
 import 'package:dart_application_1/monsterIkan.dart';
 
